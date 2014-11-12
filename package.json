@@ -1,0 +1,13 @@
+{
+    "name": "renanveroneze.brackets-quick-mdn-doc",
+    "title": "Open Terminal Here",
+    "description": "This is a brackets extension, for helping developers. Is a shortcut to open a terminal window with selected folder in osx",
+    "homepage": "https://github.com/renanveroneze/brackets-open-terminal",
+    "version": "0.0.1",
+    "author": "Renan Veroneze <veroneze.renan@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "keywords": ["terminal", "open"]
+}
