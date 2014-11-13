@@ -1,2 +1,0 @@
-brackets-open-terminal
-======================
